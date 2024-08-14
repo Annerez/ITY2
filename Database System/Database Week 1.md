@@ -3,18 +3,18 @@ Database Structure
 
 Bit --> Byte --> Field --> Record --> File --> Database
 
-![[https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617173321.png]]
+![image1](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617173321.png)
 
 Data Types
 
 ข้อมูลรูปแบบ --> รหัส, รหัสนักศึกษา, ฯลฯ
 
-![[Pasted image 20240617175330.png]]
+![image2](Pasted image 20240617175330.png)
 
 
 # Database Types
 
-![[Pasted image 20240617175608.png]]
+![Pasted image 20240617175608.png]
 
 ![[Pasted image 20240617182458.png]]
 
