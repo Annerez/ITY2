@@ -3,7 +3,7 @@ Database Structure
 
 Bit --> Byte --> Field --> Record --> File --> Database
 
-![[Pasted image 20240617173321.png]]
+![[images/Pasted image 20240617173321.png]]
 
 Data Types
 
