@@ -79,17 +79,17 @@ Attribute อื่นที่ไม่ใช่ Primary Key แต่สาม
 
 ต้องทำเป็น 3 row แทน
 
-![[Pasted image 20240812153609.png]]
-![[Pasted image 20240812153410.png]]
+![image1](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240812153609.png)
+![image2](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240812153410.png)
 # 2NF
 
 คุณสมบัติ: 
 - อยู่ในรูป 1NF แล้ว
 - ไม่มี Partial Dependency เกิดขึ้น
 
-![[Pasted image 20240812153410.png]]
+![image3](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240812153410.png)
 
-![[Pasted image 20240812153416.png]]
+![image4](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240812153416.png)
 
 # 3NF
 
@@ -97,7 +97,7 @@ Attribute อื่นที่ไม่ใช่ Primary Key แต่สาม
 - อยู่ในรูป 2NF แล้ว
 - ไม่มี Transitive Dependency เกิดขึ้น
 
-![[Pasted image 20240812153540.png]]
+![image5](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240812153540.png)
 
 # Over Normalization
 
