@@ -3,7 +3,7 @@ Database Structure
 
 Bit --> Byte --> Field --> Record --> File --> Database
 
-![[images/Pasted image 20240617173321.png]]
+![[https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617173321.png]]
 
 Data Types
 
