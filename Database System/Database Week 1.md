@@ -9,20 +9,20 @@ Data Types
 
 ข้อมูลรูปแบบ --> รหัส, รหัสนักศึกษา, ฯลฯ
 
-![image2](Pasted image 20240617175330.png)
+![image2](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617175330.png)
 
 
 # Database Types
 
-![Pasted image 20240617175608.png]
+![image3](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617175608.png)
 
-![[Pasted image 20240617182458.png]]
-
-
-![[Pasted image 20240617182502.png]]
+![image4](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617182458.png)
 
 
-![[Pasted image 20240617182505.png]]
+![image5](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617182502.png)
+
+
+![image6](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240617182505.png)
 
 
 
