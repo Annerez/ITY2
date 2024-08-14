@@ -106,7 +106,7 @@
 - ฐานข้อมูลแบบลำดับขั้น (Hierarchical Data Model)
 - ฐานข้อมูลแบบเครือข่าย (Network Data Model)
 - ฐานข้อมูลแบบสัมพันธ์ (Relational Data Model) --> ใช้ในปัจจุบัน ที่เหลือไม่ใช้แล้ว
-![[Pasted image 20240720015534.png]]
+![image2](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240720015534.png)
 
 
 # ฐานข้อมูลแบบสัมพันธ์ Relational Data Model
@@ -121,7 +121,7 @@
 	- ค่าของ Attribute ทุกค่าจำต้องเป็น atomicity (มีค่าเดียว แบ่งแยกไม่ได้)
 - ตัวอย่างของภาษาปฏิบัติการคือ SQL
 
-![[Pasted image 20240720021129.png]]
+![image1](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240720021129.png)
 
 relation = entity = table = file = ตาราง 
 tuple = rows = record = แถว
@@ -134,4 +134,4 @@ Domain = ขอบเขตของข้อมูล column
 
 primary key ห้ามซ้ำ และ ห้ามเป็นค่าว่าง
 
-![[Pasted image 20240720125303.png]]
+![image3](https://github.com/Annerez/ITY2S1/blob/main/Database%20System/images/Pasted%20image%2020240720125303.png)
