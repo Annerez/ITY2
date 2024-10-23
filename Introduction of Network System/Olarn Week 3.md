@@ -1,5 +1,5 @@
 
-![[Pasted image 20241003093605.png]]
+![cs](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003093605.png)
 
 ถ้าคอมใน cs ย้ายมา ee และต้องการคุยกับ CS
 
@@ -11,9 +11,9 @@
 
 เครือข่าย LAN ที่อยู่ภายใต้ switch เดียวกันแต่คนละ segment สามารถทำให้เหมือนอยู่ LAN เดียวกันได้ผ่าน VLANs
 
-![[Pasted image 20241003094009.png]]
+![idk](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003094009.png)
 
-![[Pasted image 20241003094017.png]]
+![idk2](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003094017.png)
 
 
 traffic isolation:
@@ -25,19 +25,18 @@ frame ส่งจาก 1-8 ไปถึง 1-8 ก็จะคุยได้�
 dynamic membership:
 port สามารถ assign แบบ dynamic ได้เลย
 
-![[Pasted image 20241003094458.png]]
-
+![idk3](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003094458.png)
 forwarding between VLANs
 
 คุยกับข้าม switch ได้ผ่านการ routing (ต้องมี switch หรือ router)
 
-![[Pasted image 20241003094520.png]]
+![idk6](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003094520.png)
 
 
 
 # trunk port
 
-![[Pasted image 20241003094708.png]]
+![idk7](https://github.com/Annerez/ITY2S1/blob/main/Introduction%20of%20Network%20System/Network%20Images/Pasted%20image%2020241003094708.png)
 
 802.1q --> ปรับปรุง header ของ 802.3 เพื่อทำให้ใช้ใน VLANs ได้
 
